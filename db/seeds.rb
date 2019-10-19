@@ -1,0 +1,7 @@
+Song.find_or_create_by(title: "Over", released: true, release_year: 2010, artist_name: "Drake", genre: "Hip-Hop")
+Song.find_or_create_by(title: "Buried Alive", released: false, release_year: 2012, artist_name: "Logic", genre: "Hip-Hop")
+Song.find_or_create_by(title: "Mad City", released: true, release_year: 2013, artist_name: "Kendrick Lamar", genre: "Hip-Hop")
+Song.find_or_create_by(title: "Saturday", released: false, release_year: 2009, artist_name: "Fallout Boys", genre: "Rock")
+Song.find_or_create_by(title: "Nights", released: true, release_year: 2015, artist_name: "Frank Ocean", genre: "Pop")
+Song.find_or_create_by(title: "Flexicution", released: true, release_year: 2015, artist_name: "Logic", genre: "Alternative")
+Song.find_or_create_by(title: "Caro", released: false, release_year: 2019, artist_name: "Bad Bunny", genre: "Latino Trap")
